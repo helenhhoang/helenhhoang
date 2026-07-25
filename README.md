@@ -1,4 +1,4 @@
-### Hello world!!
+### Hello world! :)
 
 I'm an aspiring computer engineer interested in the intersection between intelligent software and physical hardware. Through research and internships, I've integrated AI systems into robotics and hardware workflows, exploring how machine learning, autonomous systems, and human-centered technology overlap. 
 
@@ -25,7 +25,10 @@ I'm an aspiring computer engineer interested in the intersection between intelli
 
 
 [2. SWE Membership Portal](https://github.com/swe-ucla/swe-membership-portal)
-- Collaborated with Dev team to build website and membership portal using React, JavaScript, HTML, and CSS
+- Collaborated with Dev team to build website and membership portal for SWE using React, JavaScript, HTML, and CSS
+
+[3. SWE Lobbying Website](https://github.com/swe-ucla/lobbying-website)
+- Built website for SWE Lobbying committee
 
 ---
 
