@@ -23,11 +23,18 @@ I'm an aspiring computer engineer interested in the intersection between intelli
 - Integrated LLM agents into robotic manipulation systems to support parameter tuning and real-time monitoring
 - Developed APIs for robotic control and integrated computer vision to enhance perception and task execution
 
+[2. SLM Distillation for Domain-Specific Theme Labeling](https://github.com/Break-Through-Tech/Automation-Anywhere-1A-domain-specific-theme-labeling-via-slm-distillation)
+- Fine-tuning small language models (SLMs) using distillation & parameter-efficient fine-tuning (PEFT) for ticket classification
+- Benchmarking SLM performance against frontier LLMs
 
-[2. SWE Membership Portal](https://github.com/swe-ucla/swe-membership-portal)
-- Collaborated with Dev team to build website and membership portal for SWE using React, JavaScript, HTML, and CSS
+[3. SWE Evening with Industry Website](https://github.com/swe-ucla/ewi-website)
+- Implemented Firebase authentication & database to manage 400+ records, streamlining SWE Evening with Industry event registration
+- Developed Firebase cloud functions for matching algorithm to pair participants with companies
 
-[3. SWE Lobbying Website](https://github.com/swe-ucla/lobbying-website)
+[4. SWE Membership Portal](https://github.com/swe-ucla/swe-membership-portal)
+- Collaborated with web dev team to build website and membership portal for SWE using React, JavaScript, HTML, and CSS
+
+[5. SWE Lobbying Website](https://github.com/swe-ucla/lobbying-website)
 - Built website for SWE Lobbying committee
 
 ---
